@@ -6,7 +6,8 @@ Principal Component Analysis (PCA) is a useful technique for exploratory data an
 - PCA.png shows the graph of PCA for dataset LifeCycleSavings with continet clusters.
 -  PCA.R contain implementation of Principal Component Analysis.
 
-# In the LifeCycleSavings the data are averaged over the decade 1960–1970 to remove the business cycle or other short-term fluctuations. 
+# Dataset:
+In the LifeCycleSavings the data are averaged over the decade 1960–1970 to remove the business cycle or other short-term fluctuations. 
 The data were obtained from Belsley, Kuh, and Welsch (1980) and can be used in politics and business. The dataset was obtained from datasets built-in R.
 In this dataset are five variables:
 1) SR - the average personal savings.
