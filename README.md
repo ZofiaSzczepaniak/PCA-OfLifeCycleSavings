@@ -19,7 +19,7 @@ In this dataset are five variables:
 # The conclusions:
 The plot shows that increasing dpi (the leftover money) is correlated with the age of the population. In Europe, North America, and Australia, where there is an aging society, the average personal savings are bigger than in South America, Asia, and Africa, where the society is young and many children are born. We also see that the growth of dpi - ddpi is not correlated with the age of the population, because the eigenvector of ddpi is orthogonal to the pop15 and pop75. The average personal savings are increasing with the age of the society and with the growth of the dpi, what is intuitive - the more money I have, the more I can save.
 
-## Instructions: 
+# Instructions: 
 First to use the program, one must install the Python compiler. To do so, enter the site and follow the given steps: https://posit.co/download/rstudio-desktop/.
 
 Then to start the program you must install libraries: devtools and ggbiplot, like this:
