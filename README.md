@@ -23,7 +23,7 @@ The plot shows that increasing dpi (the leftover money) is correlated with the a
 ![PCA](https://github.com/ZofiaSzczepaniak/PCA-OfLifeCycleSavings/assets/169342885/60c4a3e6-536a-45e5-b415-f62c7b40016c)
 
 # Instructions: 
-First to use the program, one must install the Python compiler. To do so, enter the site and follow the given steps: https://posit.co/download/rstudio-desktop/.
+First to use the program, one must install the R compiler. To do so, enter the site and follow the given steps: https://posit.co/download/rstudio-desktop/.
 
 Then to start the program you must install libraries: devtools and ggbiplot, like this:
 
